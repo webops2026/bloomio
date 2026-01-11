@@ -1,6 +1,4 @@
 {
-  "buildCommand": "cd app && npm ci && npm run build",
-  "outputDirectory": "app/.next",
-  "framework": "nextjs",
-  "installCommand": "echo 'Skipping root install'"
+  "buildCommand": "npm run build",
+  "installCommand": "npm ci"
 }
