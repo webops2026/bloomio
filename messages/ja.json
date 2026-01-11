@@ -1,0 +1,93 @@
+{
+  "site": {
+    "name": "Bloomio",
+    "tagline": "花が語る、想いのことば",
+    "description": "花言葉の意味や由来を美しいデザインで探せるサービス"
+  },
+  "nav": {
+    "home": "ホーム",
+    "flowers": "花を探す",
+    "colors": "色で探す",
+    "seasons": "季節で探す",
+    "scenes": "シーンで探す",
+    "about": "このサイトについて"
+  },
+  "home": {
+    "hero": {
+      "title": "花が語る、想いのことば",
+      "subtitle": "大切な人に贈る花の意味を見つけよう",
+      "searchPlaceholder": "花の名前や花言葉で検索..."
+    },
+    "sections": {
+      "popular": "人気の花",
+      "popularDesc": "みんなに愛される定番の花たち",
+      "byColor": "色で探す",
+      "byColorDesc": "お好みの色から花を見つけよう",
+      "bySeason": "季節の花",
+      "bySeasonDesc": "今が旬の花をチェック",
+      "byScene": "シーンで探す",
+      "bySceneDesc": "用途に合った花を提案"
+    },
+    "viewAll": "すべて見る"
+  },
+  "flowers": {
+    "title": "花を探す",
+    "searchPlaceholder": "花の名前で検索...",
+    "noResults": "該当する花が見つかりませんでした",
+    "meanings": "花言葉",
+    "info": {
+      "family": "科名",
+      "origin": "原産地",
+      "bloomPeriod": "開花期",
+      "colors": "花の色",
+      "scenes": "おすすめシーン"
+    },
+    "related": "相性の良い花",
+    "share": "この花をシェア",
+    "favorite": "お気に入り"
+  },
+  "colors": {
+    "red": "赤",
+    "pink": "ピンク",
+    "white": "白",
+    "yellow": "黄色",
+    "orange": "オレンジ",
+    "purple": "紫",
+    "blue": "青",
+    "green": "緑"
+  },
+  "seasons": {
+    "spring": "春",
+    "summer": "夏",
+    "autumn": "秋",
+    "winter": "冬"
+  },
+  "scenes": {
+    "birthday": "誕生日",
+    "wedding": "結婚式",
+    "anniversary": "記念日",
+    "celebration": "お祝い",
+    "get-well": "お見舞い",
+    "sympathy": "お悔やみ",
+    "mothers-day": "母の日",
+    "fathers-day": "父の日",
+    "graduation": "卒業・入学",
+    "thank-you": "感謝"
+  },
+  "common": {
+    "search": "検索",
+    "back": "戻る",
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行",
+    "seeMore": "もっと見る",
+    "close": "閉じる"
+  },
+  "footer": {
+    "about": "Bloomioについて",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "contact": "お問い合わせ",
+    "copyright": "© 2026 Bloomio. All rights reserved."
+  }
+}

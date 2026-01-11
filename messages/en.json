@@ -1,0 +1,93 @@
+{
+  "site": {
+    "name": "Bloomio",
+    "tagline": "Discover the Language of Flowers",
+    "description": "Explore flower meanings and symbolism with beautiful design"
+  },
+  "nav": {
+    "home": "Home",
+    "flowers": "Flowers",
+    "colors": "By Color",
+    "seasons": "By Season",
+    "scenes": "By Occasion",
+    "about": "About"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover the Language of Flowers",
+      "subtitle": "Find the perfect meaning for your special moments",
+      "searchPlaceholder": "Search flowers or meanings..."
+    },
+    "sections": {
+      "popular": "Popular Flowers",
+      "popularDesc": "Beloved classics everyone loves",
+      "byColor": "Browse by Color",
+      "byColorDesc": "Find flowers in your favorite color",
+      "bySeason": "Seasonal Flowers",
+      "bySeasonDesc": "Discover what's blooming now",
+      "byScene": "By Occasion",
+      "bySceneDesc": "Perfect flowers for every moment"
+    },
+    "viewAll": "View All"
+  },
+  "flowers": {
+    "title": "Browse Flowers",
+    "searchPlaceholder": "Search by flower name...",
+    "noResults": "No flowers found matching your search",
+    "meanings": "Flower Meanings",
+    "info": {
+      "family": "Family",
+      "origin": "Origin",
+      "bloomPeriod": "Bloom Period",
+      "colors": "Colors",
+      "scenes": "Perfect For"
+    },
+    "related": "Pairs Well With",
+    "share": "Share This Flower",
+    "favorite": "Favorite"
+  },
+  "colors": {
+    "red": "Red",
+    "pink": "Pink",
+    "white": "White",
+    "yellow": "Yellow",
+    "orange": "Orange",
+    "purple": "Purple",
+    "blue": "Blue",
+    "green": "Green"
+  },
+  "seasons": {
+    "spring": "Spring",
+    "summer": "Summer",
+    "autumn": "Autumn",
+    "winter": "Winter"
+  },
+  "scenes": {
+    "birthday": "Birthday",
+    "wedding": "Wedding",
+    "anniversary": "Anniversary",
+    "celebration": "Celebration",
+    "get-well": "Get Well",
+    "sympathy": "Sympathy",
+    "mothers-day": "Mother's Day",
+    "fathers-day": "Father's Day",
+    "graduation": "Graduation",
+    "thank-you": "Thank You"
+  },
+  "common": {
+    "search": "Search",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "seeMore": "See More",
+    "close": "Close"
+  },
+  "footer": {
+    "about": "About Bloomio",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "copyright": "© 2026 Bloomio. All rights reserved."
+  }
+}
