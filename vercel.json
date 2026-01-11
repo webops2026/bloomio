@@ -1,7 +1,6 @@
 {
   "$schema": "https://turbo.build/schema.json",
   "framework": "nextjs",
-  "buildCommand": "next build",
-  "outputDirectory": ".next",
-  "rootDirectory": "app"
+  "buildCommand": "cd app && npm install && npm run build",
+  "outputDirectory": "app/.next"
 }
