@@ -89,5 +89,77 @@
     "terms": "Terms of Service",
     "contact": "Contact",
     "copyright": "© 2026 Bloomio. All rights reserved."
+  },
+  "about": {
+    "title": "About This Site",
+    "description": "Bloomio is a service to explore the meanings and origins of flower language with beautiful design.",
+    "mission": "Our Mission",
+    "missionText": "We help you express your feelings through flowers by sharing the beautiful words and stories that flowers carry."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: January 11, 2026",
+    "intro": "Bloomio (\"we,\" \"our,\" or \"us\") is committed to protecting the privacy of our users. This Privacy Policy explains what information we collect and how we use it.",
+    "sections": {
+      "collection": {
+        "title": "1. Information We Collect",
+        "content": "We may collect the following information:\n• Access logs (IP address, browser information, access time, etc.)\n• Cookie information\n• Information provided through contact forms"
+      },
+      "usage": {
+        "title": "2. How We Use Information",
+        "content": "We use collected information for:\n• Service improvement and optimization\n• Access analytics\n• Responding to inquiries"
+      },
+      "thirdParty": {
+        "title": "3. Third-Party Disclosure",
+        "content": "We do not share personal information with third parties without user consent, except as required by law."
+      },
+      "analytics": {
+        "title": "4. Analytics Tools",
+        "content": "We use Google Analytics for access analysis. Google Analytics uses cookies for data collection."
+      },
+      "cookies": {
+        "title": "5. Cookies",
+        "content": "We use cookies to improve user experience. Cookies can be disabled in browser settings."
+      },
+      "contact": {
+        "title": "6. Contact Us",
+        "content": "For inquiries regarding this Privacy Policy, please use the contact form on our website."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: January 11, 2026",
+    "intro": "These Terms of Service (\"Terms\") govern your use of Bloomio (\"the Site\").",
+    "sections": {
+      "agreement": {
+        "title": "Article 1 (Agreement to Terms)",
+        "content": "By using the Site, you agree to be bound by these Terms."
+      },
+      "service": {
+        "title": "Article 2 (Service Content)",
+        "content": "The Site provides information about flower language. Services may be changed or discontinued without notice."
+      },
+      "disclaimer": {
+        "title": "Article 3 (Disclaimer)",
+        "content": "We do not guarantee the accuracy, completeness, or usefulness of information provided. We are not liable for any damages arising from the use of information."
+      },
+      "copyright": {
+        "title": "Article 4 (Copyright)",
+        "content": "Content on the Site is owned by us or rights holders. Unauthorized reproduction or copying is prohibited."
+      },
+      "prohibition": {
+        "title": "Article 5 (Prohibited Acts)",
+        "content": "Users must not engage in:\n• Acts violating laws or public order\n• Acts interfering with Site operation\n• Acts infringing rights of other users or third parties\n• Other acts deemed inappropriate by us"
+      },
+      "changes": {
+        "title": "Article 6 (Changes to Terms)",
+        "content": "We may change these Terms as necessary. Changes become effective when posted on the Site."
+      },
+      "law": {
+        "title": "Article 7 (Governing Law and Jurisdiction)",
+        "content": "These Terms are governed by Japanese law. Tokyo District Court has exclusive jurisdiction for disputes related to the Site."
+      }
+    }
   }
 }
